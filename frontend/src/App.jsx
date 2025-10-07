@@ -5,6 +5,11 @@ import Layout from "./pages/Layout";
 import Dashboard from "./pages/Dashboard";
 import WriteArticle from "./pages/WriteArticle";
 import RemoveObject from "./pages/RemoveObject";
+import Community from "./pages/Community";
+import BlogTitle from "./pages/BlogTitle";
+import GenerateImages from "./pages/GenerateImages";
+import ReviewResume from "./pages/ReviewResume";
+import RemoveBackground from "./pages/RemoveBackground";
 
 const App = () => {
   return (
